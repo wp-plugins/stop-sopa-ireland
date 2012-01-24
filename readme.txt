@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.1.3 =
+Adding jQuery no-conflicting rules to the javascript.
+
 = 1.1.2 =
 This is becoming farcical, fixing another bug.
 
