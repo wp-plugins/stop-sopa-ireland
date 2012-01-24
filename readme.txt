@@ -6,7 +6,7 @@ Requires at least: 3
 Tested up to: 3.3.1
 Stable tag: trunk
 
-This plugin adds a banner to your site leting people know your support of the stop SOPA Ireland campaign
+This plugin adds a banner to your site letting people know your support of the stop SOPA Ireland campaign
 
 == Description ==
 

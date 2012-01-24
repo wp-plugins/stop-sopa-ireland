@@ -1,1 +1,1 @@
-$(document).ready(function(){var htmlMargin = $('html').css('margin-top');$('html').css('margin-top', parseInt(htmlMargin)+40+'px !important');$('#sopa_menubar').css({'top' : parseInt(htmlMargin)+'px', 'display' : 'block'});});
+$(document).ready(function(){var htmlMargin = $('html').css('margin-top');$('html').css('margin-top', parseInt(htmlMargin)+40+'px');$('#sopa_menubar').css({'top' : parseInt(htmlMargin)+'px', 'display' : 'block'});});
