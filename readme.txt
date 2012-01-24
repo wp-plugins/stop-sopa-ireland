@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.1 =
+Fixing Firefox bug.
+
 = 1.0 =
 This is the first release.
 
