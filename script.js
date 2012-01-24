@@ -1,6 +1,5 @@
-var $j = jQuery.noConflict();
-$j(document).ready(function(){
-	var htmlMargin = $j('html').css('margin-top');
-	$j('html').css('cssText', 'margin-top:'+(parseInt(htmlMargin)+40)+'px !important')
-	$j('#sopa_menubar').css({'top' : parseInt(htmlMargin)+'px', 'display' : 'block'});
+jQuery(document).ready(function(){
+	var htmlMargin = jQuery('html').css('margin-top');
+	jQuery('html').css('cssText', 'margin-top:'+(parseInt(htmlMargin)+40)+'px !important')
+	jQuery('#sopa_menubar').css({'top' : parseInt(htmlMargin)+'px', 'display' : 'block'});
 });
