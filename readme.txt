@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.1.1 =
+Fixing a bug in the Firefox bug update, silly rabbit.
+
 = 1.1 =
 Fixing Firefox bug.
 
