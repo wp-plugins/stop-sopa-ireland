@@ -21,6 +21,8 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Screenshots ==
 
+1. Here's how it will look on your site screenshot-1.(png|jpg|jpeg|gif).
+
 == Changelog ==
 
 = 1.0 =
