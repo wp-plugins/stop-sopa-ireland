@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.1.4 =
+Preventing jQuery from loading in admin panel. This is an education in WP plugin best practices.
+
 = 1.1.3 =
 Adding jQuery no-conflicting rules to the javascript.
 

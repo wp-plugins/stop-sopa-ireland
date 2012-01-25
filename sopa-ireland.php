@@ -21,7 +21,7 @@
 Plugin Name: Stop SOPA Ireland
 Plugin URI: http://abandon.ie/
 Description: This is a plugin to allow a site to link to the stop SOPA Ireland sites
-Version: 1.1.3
+Version: 1.1.4
 Author: Abban Dunne
 Author URI: http://abandon.ie
 License: GPL2
@@ -38,7 +38,7 @@ function add_sopa_jquery(){
     wp_register_script('jquery', "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", false, '1.7.1');
     wp_enqueue_script('jquery');
 }
-add_action('init', 'add_sopa_jquery');
+if(!is_admin()) add_action('init', 'add_sopa_jquery');
 
 
 /**
