@@ -21,7 +21,7 @@
 Plugin Name: Stop SOPA Ireland
 Plugin URI: http://abandon.ie/
 Description: This is a plugin to allow a site to link to the stop SOPA Ireland sites
-Version: 1.1.4
+Version: 1.2
 Author: Abban Dunne
 Author URI: http://abandon.ie
 License: GPL2
@@ -64,6 +64,7 @@ function add_sopa_menubar_footer(){
             <ul>
                 <li class="sopa_title"><strong>I SUPPORT STOP SOPA IRELAND!</strong></li>
                 <li><a class="sopa_sign" href="http://stopsopaireland.com/"><strong>Sign the petition</strong></a></li>
+                <li><a href="https://www.facebook.com/events/284626631593223/">Protest on Feb 4th!</a></li>
                 <li><a href="http://wordpress.org/extend/plugins/stop-sopa-ireland/">Download the menubar</a></li>
                 <li><a href="http://www.tjmcintyre.com/2012/01/irelands-sopa-faq.html">FAQ</a></li>
             </ul>

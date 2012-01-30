@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.2 =
+Adding a link to the anti ACTA protest.
+
 = 1.1.4 =
 Preventing jQuery from loading in admin panel. This is an education in WP plugin best practices.
 
