@@ -25,6 +25,9 @@ Even though SOPA in the US has been shelved (for now) a similar law is being sne
 
 == Changelog ==
 
+= 1.3 =
+Changing text to promote the new pledge page.
+
 = 1.2 =
 Adding a link to the anti ACTA protest.
 
